@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+  
+amazon:
+  access_key: "![LP0SkteZK79OcD56KVNCpKievcU3HiAsXgMXaIzKC20=]"
+  secret_key: "![Mg9FYYPa4zb02G9Z3JdWEDmXJ0Qtr1xmpVbTz2G7IsIeaHfeesFJU5FXkgpwwiL8]"
+  region: "us-east-2"
